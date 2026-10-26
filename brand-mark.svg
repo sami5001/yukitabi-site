@@ -1,0 +1,26 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200" role="img" aria-label="Yukitabi mark">
+  <defs>
+    <linearGradient id="cream" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F4F0E8"></stop>
+      <stop offset="1" stop-color="#E8E2D6"></stop>
+    </linearGradient>
+    <radialGradient id="sun" cx="0.5" cy="0.5" r="0.55">
+      <stop offset="0" stop-color="#D33A3A"></stop>
+      <stop offset="0.7" stop-color="#B22222"></stop>
+      <stop offset="1" stop-color="#8B1A1A"></stop>
+    </radialGradient>
+  </defs>
+  
+  <rect width="200" height="200" rx="44" fill="url(#cream)"></rect>
+  
+  <circle cx="100" cy="86" r="44" fill="url(#sun)"></circle>
+  
+  <ellipse cx="80" cy="78" rx="48" ry="3" fill="#F4F0E8" opacity="0.85"></ellipse>
+  <ellipse cx="120" cy="92" rx="46" ry="3" fill="#F4F0E8" opacity="0.85"></ellipse>
+  
+  <path d="M40 158 L96 70 L104 70 L160 158 Z" fill="#264653"></path>
+  <path d="M86 86 L96 70 L104 70 L114 86 L108 90 L104 86 L100 92 L96 86 L92 90 Z" fill="#FFFFFF"></path>
+  
+  <rect x="0" y="158" width="200" height="42" fill="#1F3A47"></rect>
+</svg>
